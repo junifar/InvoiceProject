@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Invoice</string>
+    <string name="title_invoice">Invoices</string>
+    <string name="title_setting">Setting</string>
+</resources>
